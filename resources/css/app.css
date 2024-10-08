@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --primary: rgb(34,34,34);
+    --accent: #29BE74;
+    --secondary: #292929;
+    --gray-broder-hover:#505050;
+    --gray-broder:#333333;
+}
+
+html, body, #app{
+    height: 100%;
+    width: 100%;
+    padding:0;
+    margin: 0;
+}
