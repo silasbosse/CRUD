@@ -8,11 +8,13 @@
     --secondary: #292929;
     --gray-broder-hover:#505050;
     --gray-broder:#333333;
+
 }
 
-html, body, #app{
-    height: 100%;
-    width: 100%;
-    padding:0;
-    margin: 0;
+ #app{
+  width: 100vw;
+  height: 100vh;
 }
+
+
+
