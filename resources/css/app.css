@@ -16,5 +16,10 @@
   height: 100vh;
 }
 
+.backdrop{
+    z-index: -11;
+    background: radial-gradient(circle, rgb(0, 37, 30) 25%, rgba(0,0,0,1) 108%);
+}
+
 
 
